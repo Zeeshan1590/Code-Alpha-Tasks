@@ -1,0 +1,4 @@
+Following Libraries are needed for this Task
+        requests
+        beautifulsoup4
+        pandas
